@@ -1,5 +1,5 @@
-# Regression
-Building different ML models using the different types of Regression
+# ML ALGORITHMS
+Building different ML algorithms using the different types of Regression, Clustering
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Linear Regression
