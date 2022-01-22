@@ -21,7 +21,7 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 
 # TRAINING THE SIMPLE LINEAR REGRESSION MODEL ON TRAINING SET
 regressor = LinearRegression()
-regressor.fit(x_train,  y_train)
+regressor.fit(x_train, y_train)
 
 # PREDICTING THE TEST RESULT
 y_pred = regressor.predict(x_test)
