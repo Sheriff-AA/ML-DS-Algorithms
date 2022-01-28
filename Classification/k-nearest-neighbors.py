@@ -45,5 +45,5 @@ print(np.concatenate((y_pred.reshape(len(y_pred), 1), y_test.reshape(len(y_test)
 #Confusion Matrix
 cm = confusion_matrix(y_test, y_pred)
 print(cm)
-accuracy_score(y_test, y_test)
+print(accuracy_score(y_test, y_pred))
 #%%
