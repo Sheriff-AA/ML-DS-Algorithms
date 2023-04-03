@@ -6,3 +6,5 @@ ML algorithms using the different types of Regression and Clustering
 - Support vector Regression
 - Decision Tree Regression
 - Random Forest Regression
+- Natural Language Processing
+- 
